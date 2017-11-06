@@ -1,0 +1,46 @@
+Results of all experiments of Q2 - Part 1
+
+Q2a(i)
+
+	training error = 0.002435
+	validation error = 0.046511
+
+Q2a(ii)
+
+1)
+	minibatch size = 32
+	training error = 0.006104
+	validation error = 0.037445
+
+2)
+	minibatch size = 64
+	training error = 0.011178
+	validation error = 0.032187
+
+3)
+	minibatch size = 128
+	training error after epoch 1000: 0.018931
+	validation error after epoch 1000: 0.032579
+
+Q2a(iii)
+
+	dropout probability for all layers = 0.5
+	training error after epoch 1000: 0.187301
+	validation error after epoch 1000: 0.194556
+
+Q2a(iv)
+
+1)
+	learning rate: 0.05
+	training error after epoch 1000: 0.003451
+	validation error after epoch 1000: 0.033735
+
+2)
+	learning rate: 0.001
+	training error = 0.068317
+	validation error = 0.076891
+
+3)
+	learning rate: 0.005
+	training error = 0.019673
+	validation error = 0.032821
