@@ -1,7 +1,7 @@
 Readme
 -------------------------------------
-Uneet Patel - 2015csb1038
-Jatin Goyal - 2015csb1014
+Uneet Patel
+Jatin Goyal
 -------------------------------------
 
 Q1)
